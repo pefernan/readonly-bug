@@ -1,0 +1,128 @@
+
+<form id="1989390168">
+<property name="subject" value=""/>
+<property name="name" value="entity.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="11" name="entity_bool" type="CheckBox" id="234362566">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;enquot;,quot;bool (entity)quot;"/>
+<property name="inputBinding" value="entity/bool"/>
+<property name="outputBinding" value="entity/bool"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<field position="3" name="entity_date" type="InputDate" id="1570641571">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;date (entity)quot;"/>
+<property name="inputBinding" value="entity/date"/>
+<property name="outputBinding" value="entity/date"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="10" name="entity_nBigDecimal" type="InputTextBigDecimal" id="1519775545">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;nBigDecimal (entity)quot;"/>
+<property name="inputBinding" value="entity/nBigDecimal"/>
+<property name="outputBinding" value="entity/nBigDecimal"/>
+<property name="fieldClass" value="java.math.BigDecimal"/>
+</field>
+<field position="6" name="entity_nBigInteger" type="InputTextBigInteger" id="1325536491">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;nBigInteger (entity)quot;"/>
+<property name="inputBinding" value="entity/nBigInteger"/>
+<property name="outputBinding" value="entity/nBigInteger"/>
+<property name="fieldClass" value="java.math.BigInteger"/>
+</field>
+<field position="9" name="entity_nDouble" type="InputTextDouble" id="1272146856">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;nDouble (entity)quot;"/>
+<property name="inputBinding" value="entity/nDouble"/>
+<property name="outputBinding" value="entity/nDouble"/>
+<property name="fieldClass" value="java.lang.Double"/>
+</field>
+<field position="8" name="entity_nFloat" type="InputTextFloat" id="714642088">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;nFloat (entity)quot;"/>
+<property name="inputBinding" value="entity/nFloat"/>
+<property name="outputBinding" value="entity/nFloat"/>
+<property name="fieldClass" value="java.lang.Float"/>
+</field>
+<field position="5" name="entity_nInteger" type="InputTextInteger" id="1618353322">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;nInteger (entity)quot;"/>
+<property name="inputBinding" value="entity/nInteger"/>
+<property name="outputBinding" value="entity/nInteger"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="7" name="entity_nLong" type="InputTextLong" id="1783819633">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;nLong (entity)quot;"/>
+<property name="inputBinding" value="entity/nLong"/>
+<property name="outputBinding" value="entity/nLong"/>
+<property name="fieldClass" value="java.lang.Long"/>
+</field>
+<field position="4" name="entity_nShort" type="InputTextShort" id="207709726">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;enquot;,quot;nShort (entity)quot;"/>
+<property name="inputBinding" value="entity/nShort"/>
+<property name="outputBinding" value="entity/nShort"/>
+<property name="fieldClass" value="java.lang.Short"/>
+</field>
+<field position="2" name="entity_shortDate" type="InputShortDate" id="695003092">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value=""/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;shortDate (entity)quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value=""/>
+<property name="formula" value=""/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value=""/>
+<property name="defaultValueFormula" value=""/>
+<property name="inputBinding" value="entity/shortDate"/>
+<property name="outputBinding" value="entity/shortDate"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="1" name="entity_textLong" type="InputTextArea" id="1446405507">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="height" value=""/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value=""/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;textLong (entity)quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value=""/>
+<property name="formula" value=""/>
+<property name="rangeFormula" value=""/>
+<property name="pattern" value=""/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value=""/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="defaultValueFormula" value=""/>
+<property name="inputBinding" value="entity/textLong"/>
+<property name="outputBinding" value="entity/textLong"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="0" name="entity_textShort" type="InputText" id="1293731246">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;enquot;,quot;textShort (entity)quot;"/>
+<property name="inputBinding" value="entity/textShort"/>
+<property name="outputBinding" value="entity/textShort"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="entity" name="#0000A0" type="className" outId="entity" value="org.jbpm.formModeler.test.Entity" id="entity"/>
+</form>
